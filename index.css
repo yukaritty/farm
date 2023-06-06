@@ -121,7 +121,7 @@ a:hover{
 }
 #cow{
     z-index: -1;
-    background-image: url(../yukari-project/images/cow2.jpg);
+    background-image: url(../images/cow2.jpg);
     height:100%;
     opacity: .6;
     position:absolute;
@@ -257,7 +257,7 @@ a:hover{
     align-items: center;
 }
 #sunset{
-    background: url(../yukari-project/images/sunset.jpg);
+    background: url(../images/sunset.jpg);
     z-index: -1;
     height: 100%; 
     opacity: .7;
